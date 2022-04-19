@@ -1,6 +1,6 @@
-# neuroprocessing
+## neuroprocessing
 
-Functional Analysis of Neurons in the Brain from Brain Images 
+### Functional Analysis of Neurons in the Brain from Brain Images 
     
 	
 	

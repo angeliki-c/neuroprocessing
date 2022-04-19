@@ -1,0 +1,7 @@
+numpy
+pandas
+sklearn
+mlflow
+hyperopt
+matpltotlib.pyplot
+thunder-python
